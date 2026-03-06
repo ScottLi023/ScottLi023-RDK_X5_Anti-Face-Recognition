@@ -1,0 +1,4 @@
+/home/sunrise/Code/RDK_X5_Anti-Face-Recognition_V2/build/CMakeFiles/face_liveness.dir
+/home/sunrise/Code/RDK_X5_Anti-Face-Recognition_V2/build/CMakeFiles/main.dir
+/home/sunrise/Code/RDK_X5_Anti-Face-Recognition_V2/build/CMakeFiles/edit_cache.dir
+/home/sunrise/Code/RDK_X5_Anti-Face-Recognition_V2/build/CMakeFiles/rebuild_cache.dir
